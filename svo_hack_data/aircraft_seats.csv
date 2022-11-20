@@ -1,0 +1,14 @@
+aircraft_type,name,seats,seats_C,seats_W,seats_Y
+320,Airbus A320,140,20,0,120
+321,Airbus A321,170,28,0,142
+SU9,Sukhoi Superjet 100-95,87,12,0,75
+73H,Boeing 737-800 Winglets,158,20,0,138
+77W,Boeing 777-300ER,402,30,48,324
+333,Airbus A330-300,296,28,0,268
+738,Boeing 737-800,158,20,0,138
+359,Airbus A350-900,316,28,24,264
+773,Boeing 777-300,427,28,24,375
+СУ9,Sukhoi Superjet 100-95,87,12,0,75
+С9Н,Sukhoi Superjet 100-95,87,12,0,75
+744,Boeing 747-400,522,12,0,510
+S9N,Sukhoi Superjet 100-95,87,12,0,75
